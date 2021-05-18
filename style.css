@@ -1,0 +1,27 @@
+* {
+    box-sizing: 0;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    border: 1px solid red;
+    /* width, style, and colors */
+
+    padding: 20px;
+    margin: 16px 10px 20px 5px;
+}
+#nav {
+    width: 50px;
+    background-color: blanchedalmond ;
+    padding: 20px;
+    border: 1px solid grey;
+    margin: 25px;
+    vertical-align: top;
+}
+
+#banana {
+    background-color: cornflowerblue;
+    display: inline-block;
+    width: 400px
+}
